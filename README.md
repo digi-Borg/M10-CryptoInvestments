@@ -1,5 +1,6 @@
 # FinTech Cryptocurrency Advisor Using K-Means and PCA Clustering
 
+![Cryptocurrencyadvisor](/Images/ReadMeTitlePic_2022-10-05173925.png) 
 *'Welcome to my FinTech project as a 'Cryptocurrency Advisor to analyze Cryptocurrencies for portfolios'*
 
 ---
